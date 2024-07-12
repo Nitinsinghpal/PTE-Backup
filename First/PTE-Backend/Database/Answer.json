@@ -1,0 +1,51 @@
+[
+  {
+    "questionId": 1,
+    "answer": "There is no single best method for learning.",
+    "selection": "single"
+  },
+  {
+    "questionId": 2,
+    "answer": "He admires the War Requiem of Britten but finds it far from perfect.",
+    "selection": "single"
+  },
+  {
+    "questionId": 3,
+    "answer": [
+      "Today Aborigines comprise approximately 2% of the Australian population.",
+      "Aboriginal culture is based on a belief that people, animals, and the land are integrally linked."
+    ],
+    "selection": "multiple"
+  },
+  {
+    "questionId": 4,
+    "answer": [
+      "They can be structural, behavioral, or physiological adaptations.",
+      "They are genes selected due to the benefits they offer in a particular environment."
+    ],
+    "selection": "multiple"
+  },
+  {
+    "questionId": 5,
+    "answer": [
+      "In most countries it is only the government, through their central banks, who are permitted to issue currency.",
+      "But in Scotland three banks are still allowed to issue banknotes.",
+      "The first Scottish bank to do this was the Bank of Scotland.",
+      "When this bank was founded in 1695, Scots coinage was in short supply and of uncertain value, compared with English, Dutch, Flemish or French coin.",
+      "To face growth of trade it was deemed necessary to remedy this lack of an adequate currency."
+    ],
+    "selection":"dragAndDrop"
+  },
+  {
+    "questionId": 6,
+    "answer": [
+      "Markets may be good at encouraging innovation and following trends, but they were no good at ensuring social equality.",
+      "These markets had become rapidly dominated by powerful enterprises who were able to act in their own interests, against the interests of both workers and consumers.",
+      "There had already been some legislation to prevent such abuses - such as various Factory Acts to prevent the exploitation of child workers.",
+      "Mill was able to see an expanded role for the State in such legislation to protect us against powerful interests.",
+      "He was able to argue that the State was the only organ that was genuinely capable of responding to social needs and social interests, unlike markets."
+    ],
+    "selection":"dragAndDrop"
+  }
+]
+

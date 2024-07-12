@@ -1,0 +1,14 @@
+.fillUpOptions{
+    display: flex;
+    background-color: aqua;
+    height: 60px;
+}
+.fillUpOptions li{
+    list-style-type: none;
+    margin: 2px;
+    border: 1px solid black;
+    cursor: grab;
+    height: 30px;
+    width: auto;
+    background-color: antiquewhite;
+}

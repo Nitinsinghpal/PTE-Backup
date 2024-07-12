@@ -1,0 +1,84 @@
+[
+  {
+    "QuestionID": 1,
+    "Heading": "Read the text and answer the multiple-choice question by selecting the correct response. Only one response is correct.",
+    "Paragraph": "The approach to the methodology of learning and teaching has to be comprehensive, presenting all options in an explicit and transparent way. and avoiding advocacy or dogmatism. It has been our fundamental methodological principle that the methods to be employed in language learning, teaching and research are those considered to be most effective in reaching the objectives agreed in the light of the needs of the individual learners in their social context. Effectiveness is contingent on the motivations and characteristics of the learners as well as the nature of the human and material resources which can be brought into play.",
+    "Question": "What point is the writer making in this paragraph?",
+    "Options": [
+      "Motivation is worth more than intelligence in leaming.",
+      "Language can be effectively learnt through play.",
+      "There is no single best method for learning.",
+      "Teachers should regularly change their methods."
+    ],
+    "selection": "single"
+  },
+  {
+    "QuestionID": 2,
+    "Heading": "Read the text and answer the multiple-choice question by selecting the correct response. Only one response is correct.",
+    "Paragraph": "In many ways Britten's most ambitious effort is the War Requiem of 1961, a flawed but still impressive work for chorus, soloists, and orchestra. It weaves together the traditional Latin Mass for the Dead with antiwar poems by Wilfrid Owen, a young officer killed in World War I. The point of War Requiem is how the words of the liturgical text are reinterpreted and often rendered hollow by the realities of death in war. In this work we see Britten's prodigal inconsistencies on display. For all its problems, the War Requiem will probably survive as one of our time's most impassioned indictments of war and its heroic myth.",
+    "Question": "Which of the following most accurately summarizes the opinion of the author in the text?",
+    "Options": [
+      "He finds the weaving together of the Latin Mass and antiwar poems to be quite effective.",
+      "He is critical of Britten's inconsistencies as observed in the War Requiem.",
+      "He admires the War Requiem of Britten but finds it far from perfect.",
+      "He questions whether Britten's work will endure."
+    ],
+    "selection": "single"
+  },
+  {
+    "QuestionID": 3,
+    "Heading": "Read the text and answer the question by selecting all correct responses. More than one response is correct.",
+    "Paragraph": "Who Are Aborigines? Aborigines are Australia's indigenous people. Recent government statistics counted approximately 400,000 aboriginal people, or about 2% of Australia's total population.Australian Aborigines migrated from somewhere in Asia at least 30,000 years ago. Though they comprise 500-600 distinct groups, aboriginal people possess some unifying links. Among these are strong spiritual beliefs that tie them to the land, a tribal culture of storytelling and art, and, like other indigenous populations, a difficult colonial history.The Dreamtime: Aboriginal spirituality entails a close relationship between humans and the land. Aborigines call the beginning of the world the 'Dreaming' or 'Dreamtime'. In the 'Dreamtime', aboriginal 'Ancestors' rose from below the earth to form various parts of nature including animal species, bodies of water, and the sky. Unlike other religions, however, aboriginal belief does not place the human species apart from or on a higher level than nature. Aborigines believe some of the Ancestors metamorphosed into nature (as in rock formations or rivers), where they remain spiritually alive.Storytelling, Art, and the Didgeridoo: The oral tradition of storytelling informs aboriginals' vibrant cultural life. Songs illustrate the Dreamtime and other tales of the land, while dances and diagrams drawn in the sand accompany oral tales. In the Northern Territory, aboriginal art includes sculpture, bark and rock paintings, and baskets and beadwork. Rock carvings and paintings can be found in such places as Arnhem Land, Ubirr, and Nourlangie. Many aborigines earn a living through selling native artworks.Aboriginal music is often recognizable for its most famous instrument, the didgeridoo. A wind instrument typically made from bamboo, it extends about five feet and produces a low, vibrating hum. Aborigines use didgeridoos in formal ceremonies at such events as sunsets, circumcisions, and funerals.",
+    "Question": "Which of the following statements about Australian Aborigines can be supported from this text?",
+    "Options": [
+      "It is estimated that the population of Australian Aborigines peaked at about 400,000 some 30,000 years before white settlement.",
+      "Despite being recognised internationally, the Aboriginal musical instrument the didgeridoo, rarely plays a significant role in Aboriginal cultural ceremonies.",
+      "Today Aborigines comprise approximately 2% of the Australian population.",
+      "Aboriginal culture is based on a belief that people, animals, and the land are integrally linked.",
+      "Unlike many other indigenous cultures, Australian Aborigines developed equitable relationships with colonial powers."
+    ],
+    "selection": "multiple"
+  },
+  {
+    "QuestionID": 4,
+    "Heading": "Read the text and answer the question by selecting all correct responses. More than one response is correct.",
+    "Paragraph": "Adaptations enable living organisms to cope with environmental stresses and pressures. Adaptation can be structural or behavioral. Structural adaptations are special body parts of an organism that help it to survive in its natural habitat (e.g., skin color, shape, body covering). Behavioral adaptations are the ways a particular organism behaves to survive in its natural habitat. Physiological adaptations are systems present in an organism that allow it to perform certain biochemical reactions (e.g. making venom, secreting slime, being able to keep a constant body temperature). Adaptations are traits that have been selected for by natural selection. The underlying genetic basis for the adaptive trait did not arise as a consequence of the environment, the genetic variant pre-existed and was subsequently selected because it provided the bearer of that variant some advantage.",
+    "Question": "Which of the following are true statements about adaptations?",
+    "Options": [
+      "They can be structural, behavioral, or physiological adaptations.",
+      "They mostly occur in physical appearances of special body parts of an organism.",
+      "They are new genes created to increase an organism's chance of survival.",
+      "They are genes selected due to the benefits they offer in a particular environment.",
+      "They are created by the environment to help an organism survive in its habitat."
+    ],
+    "selection": "multiple"
+  },
+  {
+    "QuestionID": 5,
+    "Heading": "The text boxes in the left panel have been placed in a random order. Restore the original order by dragging the text boxes from the left panel to the right panel.",
+    "Paragraph": "",
+    "Question": "",
+    "Options": [
+      "But in Scotland three banks are still allowed to issue banknotes.",
+      "When this bank was founded in 1695, Scots coinage was in short supply and of uncertain value, compared with English, Dutch, Flemish or French coin.",
+      "To face growth of trade it was deemed necessary to remedy this lack of an adequate currency.",
+      "The first Scottish bank to do this was the Bank of Scotland.",
+      "In most countries it is only the government, through their central banks, who are permitted to issue currency."
+    ],
+    "selection": "dragAndDrop"
+  },
+  {
+    "QuestionID": 6,
+    "Heading": "The text boxes in the left panel have been placed in a random order. Restore the original order by dragging the text boxes from the left panel to the right panel.",
+    "Paragraph": "",
+    "Question": "",
+    "Options": [
+      "These markets had become rapidly dominated by powerful enterprises who were able to act in their own interests, against the interests of both workers and consumers.",
+      "Mill was able to see an expanded role for the State in such legislation to protect us against powerful interests.",
+      "He was able to argue that the State was the only organ that was genuinely capable of responding to social needs and social interests, unlike markets.",
+      "There had already been some legislation to prevent such abuses - such as various Factory Acts to prevent the exploitation of child workers.",
+      "Markets may be good at encouraging innovation and following trends, but they were no good at ensuring social equality."
+    ],
+    "selection": "dragAndDrop"
+  }
+]
