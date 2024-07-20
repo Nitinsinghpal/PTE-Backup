@@ -1,0 +1,55 @@
+.main-dd {
+  margin-top: 1rem;
+  height: 100%;
+  width: 100%;
+  /* background-color: antiquewhite; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-dd-content {
+  height: 300px;
+  width: 700px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.leftDiv {
+  height: 430px;
+  width: 45%;
+  background-color: beige;
+  border: 1px solid grey;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+}
+
+.rigthDiv {
+  height: 430px;
+  width: 45%;
+  background-color: beige;
+  border: 1px solid grey;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+}
+.leftDiv h3 {
+  margin: 0 auto;
+}
+.optionsParentDiv {
+  margin-top: 1rem;
+  height: auto;
+  width: 100%;
+  background-color: rgb(213, 118, 134);
+}
+.optionsDiv {
+  height: 73px;
+  width: 80%;
+  background-color: #b8b8d7;
+  margin-top: 3px;
+  border: 1px solid #c5aaaa;
+  /* overflow: hidden; */
+}

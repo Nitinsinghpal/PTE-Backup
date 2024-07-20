@@ -1,0 +1,16 @@
+p > span{
+    margin-left: 10px;
+}
+.spellingResponseMainDiv{
+    margin-top: 20px;
+}
+.spellingResponseDiv{
+    background-color: cadetblue;
+}
+.grammerResponseMainDiv{
+    background-color: rgb(76, 76, 144);
+
+}
+.repsDiv{
+    border: 1px solid #a77b7b;
+}
