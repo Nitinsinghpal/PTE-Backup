@@ -1,0 +1,12 @@
+.speechToText-Main{
+  display: flex;
+  justify-content: center;
+}
+
+.speechToText-Content{
+  height: 122px;
+  width: 300px;
+  background-color: aliceblue;
+  padding: 20px;
+
+}

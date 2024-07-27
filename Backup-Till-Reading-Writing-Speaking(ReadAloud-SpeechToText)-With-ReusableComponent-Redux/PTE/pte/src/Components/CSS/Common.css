@@ -1,0 +1,17 @@
+.main-Div {
+  /* background-color: bisque; */
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.main-Div-Content {
+  background-color: rgb(199, 164, 232);
+  height: 100%;
+  width: 80%;
+  border-radius: 1rem;
+  padding: 10px;
+  
+}
