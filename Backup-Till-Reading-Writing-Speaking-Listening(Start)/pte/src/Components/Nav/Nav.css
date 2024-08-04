@@ -1,0 +1,27 @@
+.nav-main-content{
+    height: 100px;
+    width: 100%;
+    /* background-color: cadetblue; */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.links-Parent{
+    height: 50px;
+    width: 50%;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    border-radius: 1rem;
+}
+.links-Parent li{
+    list-style-type: none;
+}
+.links-Parent li a{
+    text-decoration: none;
+}
